@@ -1,0 +1,16 @@
+id: IBF8D9C9E
+default_language: zh
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-09 14:57:50.610420
+last_modified: 2023-02-09 14:57:50.610544
+source_metadata:
+  title: 'RK: Kāśyapaparivarta'
+  language: zh
+bases:
+  8C94:
+    base_file: 8C94.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''

@@ -1,0 +1,79 @@
+id: 415f81bd03d24b47b121200b7012b57f
+annotation_type: index
+revision: '00001'
+annotations:
+  643393a3bdc74713b4ec8b5c55741cca:
+    base: 8C94.txt
+    Chapters:
+    - title: Title
+      span:
+        start: 0
+        end: 16
+    - title: Introduction
+      span:
+        start: 17
+        end: 24
+    - title: §0-10
+      span:
+        start: 25
+        end: 1079
+    - title: §11-20
+      span:
+        start: 1080
+        end: 1905
+    - title: §21-30
+      span:
+        start: 1906
+        end: 2481
+    - title: §31-40
+      span:
+        start: 2482
+        end: 2811
+    - title: §41-50
+      span:
+        start: 2812
+        end: 3559
+    - title: §61-70
+      span:
+        start: 3560
+        end: 4444
+    - title: §71-80
+      span:
+        start: 4445
+        end: 4801
+    - title: §81-90
+      span:
+        start: 4802
+        end: 5312
+    - title: §91-100
+      span:
+        start: 5313
+        end: 6203
+    - title: §101-110
+      span:
+        start: 6204
+        end: 7034
+    - title: §111-120
+      span:
+        start: 7035
+        end: 7335
+    - title: §121-130
+      span:
+        start: 7336
+        end: 8091
+    - title: §130-20
+      span:
+        start: 8092
+        end: 9137
+    - title: §141-150
+      span:
+        start: 9138
+        end: 10112
+    - title: §151-160
+      span:
+        start: 10113
+        end: 10545
+    - title: §161-166
+      span:
+        start: 10546
+        end: 10900
